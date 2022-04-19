@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import ReactBoostrap from 'react-bootstrap';
+import * as ReactBootstrap from 'react-bootstrap';
 import {
     Card,
     Accordion,
